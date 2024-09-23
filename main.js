@@ -13,4 +13,6 @@
 //     return (base*altura)/2;
 // }
 // console.log(areatriangulo(8,5));
-let valor1=prompt('pergunta')
+let valor1=prompt('Digite o seu primeiro número')
+let valor2=prompt('Digite o seu segundo número')
+let valor3=prompt('Digite o seu terceiro número')

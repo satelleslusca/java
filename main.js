@@ -14,8 +14,8 @@
 // }
 // console.log(areatriangulo(8,5));
 let valor1=parseInt(prompt('Digite o seu primeiro número'));
-let valor2=prompt('Digite o seu segundo número');
-let valor3=prompt('Digite o seu terceiro número');
+let valor2=parseInt(prompt('Digite o seu primeiro número'));
+let valor3=parseInt(prompt('Digite o seu primeiro número'));
 function media(valor1,valor2,valor3){
     return (valor1+valor2+valor3)/3;
 }

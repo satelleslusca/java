@@ -1,2 +1,1 @@
-alert('test')
-alert('Lucas Satelles e Gustavo')
+// alert('Lucas Satelles e Gustavo')

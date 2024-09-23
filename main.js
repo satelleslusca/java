@@ -17,7 +17,7 @@ let valor1=prompt('Digite o seu primeiro número');
 let valor2=prompt('Digite o seu segundo número');
 let valor3=prompt('Digite o seu terceiro número');
 function media(valor1,valor2,valor3){
-    return (valor1+valor2+valor3/3);
+    return (valor1+valor2+valor3)/3;
 }
 console.log(media(valor1,valor2,valor3));
 document.write(media(valor1,valor2,valor3));

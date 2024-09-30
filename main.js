@@ -30,8 +30,8 @@ while(i<estados.length){
 }
 let idade = parseInt(prompt('Qual a sua idade?'))
 if (idade>17){
-console.log('Cadê a carteira de trabalho?')
+console.log(prompt('Cadê a carteira de trabalho?'))
 }
 else{
-console.log('Já devia estar no job')
+console.log(prompt('Já devia estar no job'))
 }

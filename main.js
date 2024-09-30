@@ -21,3 +21,4 @@
 // }
 // console.log(media(valor1,valor2,valor3));
 // document.write(media(valor1,valor2,valor3));
+let estados = ['Paraná','Fortaleza',]

@@ -35,6 +35,6 @@ console.log(alert('Cadê a carteira de trabalho?'))
 else{
 console.log(alert('Já devia estar no job'))
 }
-for (let i = 0;  < estado.length; i++) {
+for (let i = 0;  < estados.length; i++) {
     console.log(estados[i]);
 }

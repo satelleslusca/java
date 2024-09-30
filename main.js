@@ -28,3 +28,10 @@ while(i<estados.length){
     console.log(estados[i]);
     i++;
 }
+let idade = 16
+if (idade>17){
+console.log('Cadê a carteira de trabalho?')
+}
+else{
+console.log('Já devia estar no job')
+}
